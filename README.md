@@ -117,6 +117,8 @@ O Sistema conta com paginação (Opção de Adiantar e Voltar páginas) e Sistem
 
 ## 🖼️ Imagens
 
+Imagens do sistema em funcionamento:
+
 [![Imagem 1](http://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/verlogs.png "Exemplo do /verlogs")](https://raw.githubusercontent.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/refs/heads/main/imagens/verlogs.png)
 
 [![Imagem 2](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/pesquisa%20logs.png "Pesquisa de Logs")
