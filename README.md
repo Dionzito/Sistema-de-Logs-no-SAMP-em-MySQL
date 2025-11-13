@@ -115,6 +115,16 @@ O Sistema conta com paginação (Opção de Adiantar e Voltar páginas) e Sistem
 
 ---
 
+## 🖼️ Imagens
+
+![Imagem 1](http://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/verlogs.png "Exemplo do /verlogs")
+![Imagem 2](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/pesquisa%20logs.png "Pesquisa de Logs")
+![Imagem 3](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png "Opções dos Logs")
+![Imagem 4](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png "Exemplo de Exibição dos Logs")
+![Imagem 5](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/exemplo%202%20logs.png "Exemplo 2 de Exibição dos Logs")
+
+---
+
 ## 📜 Licença
 
 Este sistema é distribuído sob a **MIT License**. Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos do autor.
