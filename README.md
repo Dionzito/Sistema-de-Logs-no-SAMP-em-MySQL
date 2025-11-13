@@ -117,11 +117,16 @@ O Sistema conta com paginação (Opção de Adiantar e Voltar páginas) e Sistem
 
 ## 🖼️ Imagens
 
-![Imagem 1](http://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/verlogs.png "Exemplo do /verlogs")
-![Imagem 2](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/pesquisa%20logs.png "Pesquisa de Logs")
-![Imagem 3](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png "Opções dos Logs")
-![Imagem 4](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png "Exemplo de Exibição dos Logs")
-![Imagem 5](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/exemplo%202%20logs.png "Exemplo 2 de Exibição dos Logs")
+[![Imagem 1](http://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/verlogs.png "Exemplo do /verlogs")](https://raw.githubusercontent.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/refs/heads/main/imagens/verlogs.png)
+
+[![Imagem 2](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/pesquisa%20logs.png "Pesquisa de Logs")
+](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/pesquisa%20logs.png?raw=true)
+
+[![Imagem 3](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png "Opções dos Logs")](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png?raw=true)
+
+[![Imagem 4](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/opcoes%20logs.png "Exemplo de Exibição dos Logs")](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/exemplo%20logs.png?raw=true)
+
+[![Imagem 5](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/exemplo%202%20logs.png "Exemplo 2 de Exibição dos Logs")](https://github.com/Dionzito/Sistema-de-Logs-no-SAMP-em-MySQL/blob/main/imagens/exemplo%202%20logs.png?raw=true)
 
 ---
 
